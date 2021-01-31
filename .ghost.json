@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://nidzara.herokuapp.com",
+    "contentApiKey": "4733ead408456a94c39280cfa9"
+  },
+  "production": {
+    "apiUrl": "https://nidzara.herokuapp.com",
+    "contentApiKey": "4733ead408456a94c39280cfa9"
+  }
+}
